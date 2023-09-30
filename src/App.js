@@ -1,8 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import { useState, useRef } from "react";
-import Avatar from './assets/carter.webp'
-
+import Avatar from './assets/Cl7SDYFUYAAh7jr.webp.jpg
 function App() {
    const messageEnd = useRef(null);
    const [ans, setAns] = useState([]);

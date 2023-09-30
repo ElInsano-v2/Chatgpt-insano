@@ -118,7 +118,7 @@ function App() {
                );
              })
            ) : (
-             <p style={{ margin: "0 auto" }}>Ask Anything 🙂</p>
+             <p style={{ margin: "0 auto" }}>👻Este GPT no Responde a la pregunta anterior y tienes que decir una pregunta precisa👻</p>
            )}
            <div ref={messageEnd} />
          </div>
